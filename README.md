@@ -1,8 +1,8 @@
 # PopApp
 
-> Access your favorite websites through a convenient popup
-
 [![PopApp Icon](./icon.png)](https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB)
+
+> Access your favorite websites through a convenient popup
 
 ---
 
