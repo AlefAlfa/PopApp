@@ -2,45 +2,13 @@
 
 > Access your favorite websites through a convenient popup
 
-[![App Store][appstore-badge]][https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB]
-
----
-
-## Table of Contents
-
-* [Description](#description)
-* [Features](#features)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Configuration](#configuration)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+[![PopApp Icon](./icon.png)](https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB)
 
 ---
 
 ## Description
 
-In the digital age, where the internet is our go-to for almost everything, ease and accessibility aren’t just luxuries—they’re essentials. PopApp redefines how you interact with your favorite online spaces, making every click more meaningful by eliminating friction from your workflow. With a single keyboard shortcut, PopApp brings up to four of your essential websites right where you need them—no more tab-juggling or context-switching.
-
----
-
-## Features
-
-* **Effortless Accessibility**
-  Invoke PopApp from the macOS menu bar with a customizable keyboard shortcut—no need to leave your current task.
-
-* **Streamlined for Simplicity**
-  Switch between up to four predefined websites instantly, keeping your go-to note-taking tools, calculators, and more at your fingertips.
-
-* **Resizable Pop-Up**
-  Customize the size of the pop-up window to fit your workflow—expand for reading, shrink for quick lookups.
-
-* **Adaptive Tabs**
-  Change your four “favorites” on the fly so PopApp grows with you as your needs evolve.
-
----
+PopApp lets you instantly access and switch between up to four favorite websites in a resizable popup from your macOS menu bar, using customizable shortcuts for a seamless experience.
 
 ## Requirements
 
