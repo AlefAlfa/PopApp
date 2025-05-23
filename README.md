@@ -23,7 +23,7 @@ PopApp lets you instantly access and switch between up to four favorite websites
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/PopApp.git
+   git clone https://github.com/AlefAlfa/PopApp.git
    cd PopApp
    ```
 
