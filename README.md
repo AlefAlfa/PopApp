@@ -59,10 +59,3 @@ PopApp lets you instantly access and switch between up to four favorite websites
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Website: [https://sites.google.com/view/popapp](https://sites.google.com/view/popapp)
-App Store [https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB](https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB)
-
----
