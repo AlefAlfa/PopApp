@@ -1,8 +1,8 @@
 # PopApp
 
-[![PopApp Icon](./icon.png)](https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB)
-
 > Access your favorite websites through a convenient popup
+
+![PopApp Screenshot](./screenshot-1.png)
 
 ---
 
@@ -63,5 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Website: [https://sites.google.com/view/popapp](https://sites.google.com/view/popapp)
+App Store [https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB](https://apps.apple.com/de/app/the-popapp/id6477869389?l=en-GB)
 
 ---
